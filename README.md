@@ -1,8 +1,8 @@
-# React + Vite
+# React API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I recently built a React.js project that fetches and displays data from a REST API. The goal was to practice API calls, state management, and UI rendering efficiently. 💻✨
+🔹 Key Features:
+✅ Fetches real-time data using fetch or axios
+✅ Displays dynamic content with useState and useEffect
+✅ Handles loading and error states smoothly
+✅ Fully responsive UI with React & Tailwind CSS
